@@ -2,4 +2,6 @@
 - 💬 My Discord Username is `thevisibleghost1607`.
 - ✨ Originally knows as **Kushagra**
 - 🐍 I know **Python** well.
+- 🖌️ I also know frontend web development.
+- ✨ I keep knowledge of all software stuff.
 - 🎯 I like exploring new things.
