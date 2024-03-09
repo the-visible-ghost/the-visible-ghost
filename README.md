@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kushagra Vishwakarma.
-- 💬 My Discord Username is `thevisibleghost`.
+- 💬 My Discord Username is `thevisibleghost1607`.
 - ✨ Originally knows as **Kushagra**
 - 🐍 I know **Python** well.
 - 🎯 I like exploring new things.
