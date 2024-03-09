@@ -8,4 +8,4 @@
 ## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Kushagra-16&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-16&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra-16&theme=tokyonight&count_private=true)
